@@ -1,0 +1,8 @@
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosInsert\ExemplosInsert\ExemplosInsert\bin\Debug\ExemplosInsert.exe.config
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosInsert\ExemplosInsert\ExemplosInsert\bin\Debug\ExemplosInsert.exe
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosInsert\ExemplosInsert\ExemplosInsert\bin\Debug\ExemplosInsert.pdb
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosInsert\ExemplosInsert\ExemplosInsert\bin\Debug\EntityFramework.dll
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosInsert\ExemplosInsert\ExemplosInsert\bin\Debug\EntityFramework.xml
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosInsert\ExemplosInsert\ExemplosInsert\obj\Debug\ExemplosInsert.csprojResolveAssemblyReference.cache
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosInsert\ExemplosInsert\ExemplosInsert\obj\Debug\ExemplosInsert.exe
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosInsert\ExemplosInsert\ExemplosInsert\obj\Debug\ExemplosInsert.pdb
